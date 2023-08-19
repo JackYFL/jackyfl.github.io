@@ -17,42 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I'm Yifan Li (李一帆), a Ph.D. student (2023-) at the Department of Computer Science and Engineering (CSE) of Michigan State University (MSU), supervised by Prof. [Yu Kong](https://scholar.google.com/citations?user=wXA8nb4AAAAJ&hl=zh-CN&oi=ao). Before that, I obtained my Master's degree (2020-2023) at the Institue of Computing Technology, Chinese Academy of Sciences (ICT, CAS) supervised by Prof. [Hu Han](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao), and I also collaborately closely with Prof. [Shiguang Shan](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao). I obtained my Bachelor's degree (2016-2020) at the Northeastern University supervised by Prof. [Long Cheng](https://scholar.google.com/citations?user=Tmu1QacAAAAJ&hl=zh-CN).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes computer vision (CV) and deep learning (DL). More specifically, my goal is to exploit the knowledge from imperfected data (unlabeled or mislabeled data) and improve the model generalization and robustness. My current research interest is Embodied AI so that humans can work with machines collaboratively. 
+
+I am so excited to witness and participate in the revolution of artificial intelligence. I am also open in collaboration for creating better jobs, so if you are interested please reach me out and do something cool.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 News <img src="../images/update.gif">
+- *2023.08*: &nbsp;🎉 Start my Ph. D. journey at MSU! 
+- *2023.06*: &nbsp;🎉 One paper is accepted by **CVPR 2023**. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ACM TOMM 2023</div><img src="../_config.ymlimages/DISC_CVPR2023.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+    <p><a href="https://dl.acm.org/doi/abs/10.1145/3563039">Sim2Word: Explaining Similarity with Representative Attribute Words via Counterfactual Explanations</a></p>
+
+    <p><strong>Ruoyu Chen</strong>, Jingzhi Li, Hua Zhang, Changchong Sheng, Li Liu, and Xiaochun Cao</p>
+
+    <p><a href="https://github.com/RuoyuChen10/Sim2Word"><strong>Code</strong></a> / <a href="https://dl.acm.org/doi/abs/10.1145/3563039"><strong>Paper</strong></a> / <a href="https://ruoyuchen10.github.io/slide/Sim2Word_TOMMCAP2022.pdf"><strong>Poster</strong></a> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
+
+    <p>ACM Transactions on Multimedia Computing, Communications, and Applications,</p>
+
+  </div>
+</div> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='./images/DISC_CVPR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yifan Li**, Hu Han, Shiguang Shan, Xilin Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05* **Zhiqiang Scholarship** of ICT.
+- *2023.05, 2022.05* **Merit Student** of Chinese Academy of Sciences.
+- *2022.07* Our teacm (ICT-VIPL) reached the **Runner-up** in Mult-task learning track in Affective Behavior Analysis in-the-wild ([ABAW4](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/)) competition. 
+- *2019.03* **Meritorous Award**, Mathematical Contest in Modeling (MCM). 
+- *2019.01* **First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM).
+- *2018.08* **National Second Prize**, 13-th NXP Cup College Students Intelligent Car Race.
+- *2018.08* **National Third Prize**, iCAN International Innovation and Entrepreneurship Competition.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08 - now*, Ph.D. Student of Computer Engineering, Michigan State University. 
+- *2020.09 - 2023.06*, Master of Computer Application, Institute of Computing Technology, Chinese Academy of Sciences, China. 
+- *2016.09 - 2020.06*, Bachelor of Communication Engineering, Northeastern University, China. 
 
-# 💬 Invited Talks
+# 
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
