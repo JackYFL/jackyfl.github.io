@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yifan Li (李一帆)"
 description              : "Ph. D. Student, Michigan State University"
-repository               : "JackYFL/jackliyifan.github.io"
+repository               : "JackYFL/jackyfl.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Li"
+  name             : "Yifan Li (李一帆)"
   avatar           : "images/Jack.jpg"
   bio              : "Michigan State University"
-  location         : "East Lansing, MI, United State"
+  location         : "East Lansing, MI, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KIWyHMMAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : JackYFL # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -153,7 +153,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
