@@ -25,7 +25,7 @@ I am so excited to witness and participate in the revolution of artificial intel
 
 
 # 🔥 News 
-- *2023.08*: &nbsp;🎉 Start my Ph. D. journey at MSU! 
+- *2023.08*: &nbsp;🎉 Start my Ph. D. journey at **MSU**! 
 - *2023.06*: &nbsp;🎉 One paper is accepted by **CVPR 2023**. 
 
 # 📝 Publications 
@@ -39,9 +39,18 @@ I am so excited to witness and participate in the revolution of artificial intel
   </div>
 </div>
 
-<li><code class="language-plaintext highlighter-rouge">ECCVW 2022</code> <a href="https://arxiv.org/pdf/2207.11679">Affective Behaviour Analysis Using Pretrained Model with Facial Prior</a>, <strong>Yifan Li</strong>, Haomiao Sun, Zhaori Liu, Hu Han, Shiguang Shan</li>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCVW 2023</div><img src="./images/EMMA_ECCVW2022.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+    <p><a href="https://arxiv.org/pdf/2207.11679">Affective Behaviour Analysis Using Pretrained Model with Facial Prior</a></p>
 
-<li><code class="language-plaintext highlighter-rouge">TII 2020</code> <a href="https://ieeexplore.ieee.org/abstract/document/9031316">An Indoor Localization Algorithm Based on Modified Joint Probabilistic Data Association for Wireless Sensor Network</a>, Long Cheng, <strong>Yifan Li</strong>, Mingkun Xue, Yan Wang</li>
+    <p><strong>Yifan Li</strong>, Haomiao Sun, Zhaori Liu, Hu Han, Shiguang Shan</p>
+
+    <p><a href="https://github.com/JackYFL/EMMA_CoTEX_ABAW4"><strong>Code</strong></a> / <a href="[https://dl.acm.org/doi/abs/10.1145/3563039](https://arxiv.org/pdf/2207.11679)"> <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong></p>
+  </div>
+</div>
+
+
+<li><div class="badge">TII 2022</div> <a href="https://ieeexplore.ieee.org/abstract/document/9031316">An Indoor Localization Algorithm Based on Modified Joint Probabilistic Data Association for Wireless Sensor Network</a>, Long Cheng, <strong>Yifan Li</strong>, Mingkun Xue, Yan Wang</li>
 
 # 🎖 Honors and Awards
 - *2023.05* **Zhiqiang Scholarship** of ICT.
@@ -52,7 +61,8 @@ I am so excited to witness and participate in the revolution of artificial intel
 - *2018.08* **National Second Prize**, 13-th NXP Cup College Students Intelligent Car Race.
 - *2018.08* **National Third Prize**, iCAN International Innovation and Entrepreneurship Competition.
 
-# Academic Services
+# 💬 Academic Services
+
 ## Conference Reviewer
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr2023.thecvf.com/">2023</a>
 - Conference on Neural Information Processing Systems (NeurlPS): <a href="https://neurips.cc/Conferences/2021">2021</a>, <a href="https://neurips.cc/Conferences/2023">2023</a> 
