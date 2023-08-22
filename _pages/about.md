@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yifan Li (李一帆), a Ph.D. student (2023-) at the Department of Computer Science and Engineering (CSE) of Michigan State University (MSU), supervised by Prof. [Yu Kong](https://scholar.google.com/citations?user=wXA8nb4AAAAJ&hl=zh-CN&oi=ao). Before that, I obtained my Master's degree (2020-2023) at the Institue of Computing Technology, Chinese Academy of Sciences (ICT, CAS) supervised by Prof. [Hu Han](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao), and I also collaborately closely with Prof. [Shiguang Shan](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao). I obtained my Bachelor's degree (2016-2020) at Northeastern University supervised by Prof. [Long Cheng](https://scholar.google.com/citations?user=Tmu1QacAAAAJ&hl=zh-CN).
+Hi, I'm Yifan Li (李一帆), a Ph.D. student (2023-) at the Department of Computer Science and Engineering (CSE) of Michigan State University (MSU), supervised by Prof. [Yu Kong](https://scholar.google.com/citations?user=wXA8nb4AAAAJ&hl=zh-CN&oi=ao). Before that, I obtained my Master's degree (2020-2023) at the Institue of Computing Technology, Chinese Academy of Sciences (ICT, CAS) supervised by Prof. [Hu Han](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao), and I also collaborate closely with Prof. [Shiguang Shan](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao). I obtained my Bachelor's degree (2016-2020) at Northeastern University supervised by Prof. [Long Cheng](https://scholar.google.com/citations?user=Tmu1QacAAAAJ&hl=zh-CN).
 
 My research interest includes computer vision (CV) and deep learning (DL). More specifically, my goal is to exploit the knowledge from imperfect data (unlabeled or mislabeled data) and improve the model's generalization and robustness. My current research interest is Embodied AI so that humans can work with machines collaboratively. 
 
@@ -25,10 +25,22 @@ I am so excited to witness and participate in the revolution of artificial intel
 
 
 # 🔥 News 
+- *2023.08*: &nbsp;🎉 One paper is accepted by **BMVC**! 
 - *2023.08*: &nbsp;🎉 Start my Ph. D. journey at **MSU**! 
 - *2023.06*: &nbsp;🎉 One paper is accepted by **CVPR 2023**. 
 
 # 📝 Publications 
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+    <p><a>ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels</a></p>
+
+    <p><strong>Yifan Li</strong>, Hu Han, Shiguang Shan, zhilong ji, Jinfeng Bai, Xilin Chen</p>
+
+    <p><a><strong>Coming Soon!</strong></a> </p>
+  </div>
+</div>
+
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2023</div><img src="./images/DISC_CVPR2023.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text">
