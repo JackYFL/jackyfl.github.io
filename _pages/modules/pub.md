@@ -1,5 +1,5 @@
 # 📝 Publications 
-## 👀 Computer Vision
+### 👀 Computer Vision
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
