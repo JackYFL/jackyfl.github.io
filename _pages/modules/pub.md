@@ -1,9 +1,10 @@
 # 📝 Publications 
-### 👀 Computer Vision
+## 👀 Computer Vision
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels]() \\ 
+
 **Yifan Li**, Hu Han, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen
 
 [**Coming Soon!**]()
@@ -32,7 +33,7 @@
 </div>
 </div>
 
-### 💻 Other Research Papers
+## 💻 Other Research Papers
 
 - ``TII 2020`` [An Indoor Localization Algorithm Based on Modified Joint Probabilistic Data Association for Wireless Sensor Network](https://ieeexplore.ieee.org/abstract/document/9031316), Long Cheng, **Yifan Li**, Mingkun Xue, Yan Wang
 
