@@ -4,6 +4,7 @@
 <div class="paper-box-text" markdown="1">
 
 [ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels](https://jackyfl.github.io/) \\ 
+
 **Yifan Li**, Hu Han, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen
 
 [**Coming Soon!**]()
