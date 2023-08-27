@@ -1,15 +1,5 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
-
-[ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels](https://jackyfl.github.io/) \\ 
-
-**Yifan Li**, Hu Han, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen
-
-[**Coming Soon!**]()
-</div>
-</div>
 
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2023</div><img src="./images/DISC_CVPR2023.png" alt="sym" width="100%"></div></div>
@@ -19,6 +9,16 @@
 **Yifan Li**, Hu Han, Shiguang Shan, Xilin Chen
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf) / [**Code**](https://github.com/JackYFL/DISC) / [**Poster**](https://github.com/JackYFL/DISC/blob/main/assets/DISC_poster.png)
+</div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels](https://jackyfl.github.io/) \\ 
+**Yifan Li**, Hu Han, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen
+
+[**Coming Soon!**]()
 </div>
 </div>
 
