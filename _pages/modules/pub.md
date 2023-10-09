@@ -7,7 +7,9 @@
 [ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels]() \\
 **Yifan Li**, Hu Han, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen
 
-[**Coming Soon!**]()
+[**Paper**]("./files/BMVC2023_camera_readyV2.pdf") /
+[**Appendix**]("./files/BMVC2023_appendix.pdf") /
+[**Poster**]("./files/BMVC2023_poster.png")
 </div>
 </div>
 
