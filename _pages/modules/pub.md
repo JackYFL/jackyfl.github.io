@@ -7,9 +7,9 @@
 [ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels]() \\
 **Yifan Li**, Hu Han, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen
 
-[**Paper**]("https://github.com/JackYFL/jackyfl.github.io/tree/main/files/BMVC2023_camera_readyV2.pdf") /
-[**Appendix**]("https://github.com/JackYFL/jackyfl.github.io/tree/main/files/BMVC2023_appendix.pdf") /
-[**Poster**]("https://github.com/JackYFL/jackyfl.github.io/tree/main/files/ReCoT_BMVC2023_poster.png")
+[**Paper**](https://github.com/JackYFL/jackyfl.github.io/tree/main/files/BMVC2023_camera_readyV2.pdf) /
+[**Appendix**](https://github.com/JackYFL/jackyfl.github.io/tree/main/files/BMVC2023_appendix.pdf) /
+[**Poster**](https://github.com/JackYFL/jackyfl.github.io/tree/main/files/ReCoT_BMVC2023_poster.png)
 </div>
 </div>
 
