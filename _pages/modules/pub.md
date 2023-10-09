@@ -9,7 +9,7 @@
 
 [**Paper**]("./files/BMVC2023_camera_readyV2.pdf") /
 [**Appendix**]("./files/BMVC2023_appendix.pdf") /
-[**Poster**]("./files/BMVC2023_poster.png")
+[**Poster**]("./files/ReCoT_BMVC2023_poster.png")
 </div>
 </div>
 
