@@ -38,4 +38,3 @@
 ## 💻 Other Research Papers
 
 - ``TII 2020`` [An Indoor Localization Algorithm Based on Modified Joint Probabilistic Data Association for Wireless Sensor Network](https://ieeexplore.ieee.org/abstract/document/9031316), Long Cheng, **Yifan Li**, Mingkun Xue, Yan Wang
-

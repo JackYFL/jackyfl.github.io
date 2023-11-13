@@ -1,4 +1,4 @@
-# ✒️ Academic Services
+# 💬 Academic Services
 
 ## Conference Reviewer
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr2023.thecvf.com/">2023</a>
