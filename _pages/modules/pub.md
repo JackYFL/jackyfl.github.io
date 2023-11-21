@@ -36,6 +36,7 @@
 </div>
 
 ## 🔍 Data Mining
+
 - ``Preprint 2023`` [CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection](https://arxiv.org/pdf/2311.11473.pdf), **Yifan Li**, Zhen Tan, Kai Shu, Zongsheng Cao, Yu Kong, Huan Liu
 
 ## 💻 Other Research Papers
