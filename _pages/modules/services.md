@@ -1,7 +1,7 @@
 # 💬 Academic Services
 
 ## Conference Reviewer
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr2023.thecvf.com/">2023</a>
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr2023.thecvf.com/">2023</a>, <a href="https://cvpr.thecvf.com/Conferences/2024">2024</a>
 - Conference on Neural Information Processing Systems (NeurlPS): <a href="https://neurips.cc/Conferences/2021">2021</a>, <a href="https://neurips.cc/Conferences/2023">2023</a> 
 - British Machine Vision Conference (BMVC): <a href="https://neurips.cc/Conferences/2021">2021</a> 
 - International Conference on Automatic Face and Gesture Recognition (FG): <a href="https://fg2023.ieee-biometrics.org/">2023</a>  
