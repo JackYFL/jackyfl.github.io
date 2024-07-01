@@ -11,4 +11,5 @@
 - IEEE Transactions on Circuits and Systems for Video Technology (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>) 
 - IEEE Transactions on Multimedia (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>) 
 - IEEE Transactions on Biometrics, Behavior, and Identity Science (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754">TBIOM</a>) 
+- ACM Transactions on Multimedia Computing Communications and Applications (<a href="https://dl.acm.org/journal/tomm">TOMM</a>) 
 - Elsevier: Pattern Recognition (<a href="https://www.journals.elsevier.com/pattern-recognition">PR</a>) 

@@ -1,7 +1,19 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCV 2024</div><img src="./images/EmoLA_ECCV2024.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Facial Affective Behavior Analysis with Instruction Tuning]() \\
+**Yifan Li**, Anh Dao, Wentao Bao, Zhen Tan, Tianlong Chen, Huan Liu, Yu Kong
+
+[**Paper**](https://arxiv.org/pdf/2404.05052) /
+[**Project**](https://johnx69.github.io/FABA/) /
+[**Code coming soon**]()
+</div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/EmoLA_ECCV2024.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels]() \\
