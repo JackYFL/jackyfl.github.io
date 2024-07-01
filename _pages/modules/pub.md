@@ -4,7 +4,7 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCV 2024</div><img src="./images/EmoLA_ECCV2024.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[Facial Affective Behavior Analysis with Instruction Tuning]() \\
+[Facial Affective Behavior Analysis with Instruction Tuning](https://arxiv.org/pdf/2404.05052) \\
 **Yifan Li**, Anh Dao, Wentao Bao, Zhen Tan, Tianlong Chen, Huan Liu, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2404.05052) /
@@ -16,7 +16,7 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels]() \\
+[ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels](https://papers.bmvc2023.org/0102.pdf) \\
 **Yifan Li**, Hu Han, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen
 
 [**Paper**](https://github.com/JackYFL/jackyfl.github.io/tree/main/files/BMVC2023_camera_readyV2.pdf) /
