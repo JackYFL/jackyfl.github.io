@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/EmoLA_ECCV2024.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BMVC 2023</div><img src="./images/ReCoT_BMVC2023.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [ReCoT: Regularized Co-Training for Facial Action Unit Recognition with Noisy Labels]() \\
