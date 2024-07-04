@@ -51,6 +51,6 @@
 
 - ``Preprint 2023`` [CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection](https://arxiv.org/pdf/2311.11473.pdf), **Yifan Li**, Zhen Tan, Kai Shu, Zongsheng Cao, Yu Kong, Huan Liu -->
 
-## 💻 Other Research Papers
+## 📚 Other Research Papers
 
 - ``TII 2020`` [An Indoor Localization Algorithm Based on Modified Joint Probabilistic Data Association for Wireless Sensor Network](https://ieeexplore.ieee.org/abstract/document/9031316), Long Cheng, **Yifan Li**, Mingkun Xue, Yan Wang
