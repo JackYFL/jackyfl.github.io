@@ -18,6 +18,6 @@ redirect_from:
 
 {% include_relative modules/services.md %}
 
-{% include relative modules/internships.md %}
+{% include_relative modules/internships.md %}
 
 {% include_relative modules/education.md %}
