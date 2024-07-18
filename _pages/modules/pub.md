@@ -1,7 +1,7 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCV 2024</div><img src="./images/EmoLA_ECCV2024.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCV 2024</div><img src="./images/EmoLAv2_ECCV2024.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [Facial Affective Behavior Analysis with Instruction Tuning](https://arxiv.org/pdf/2404.05052) \\
