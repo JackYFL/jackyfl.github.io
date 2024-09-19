@@ -47,9 +47,10 @@
 </div>
 </div>
 
-<!-- ## 🔍 Data Mining
 
-- ``Preprint 2023`` [CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection](https://arxiv.org/pdf/2311.11473.pdf), **Yifan Li**, Zhen Tan, Kai Shu, Zongsheng Cao, Yu Kong, Huan Liu -->
+## 📖 Natural Language Processing
+
+- ``EMNLP 2024`` ["Glue pizza and eat rocks" - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](https://arxiv.org/pdf/2406.19417), Zhen Tan, Chengshuang Zhao, RahaMoraffah, **Yifan Li**, Song Wang, Jundong Li, Tianlong Chen, Huan Liu
 
 ## 📚 Other Research Papers
 
