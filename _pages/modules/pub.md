@@ -9,7 +9,7 @@
 
 [**Paper**](https://arxiv.org/pdf/2404.05052) /
 [**Project**](https://johnx69.github.io/FABA/) /
-[**Code coming soon**]()
+[**Code**](https://github.com/JackYFL/EmoLA) /
 </div>
 </div>
 
