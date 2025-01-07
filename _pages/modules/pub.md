@@ -50,7 +50,7 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCVW 2022</div><img src="./images/EMMA_ECCVW2022.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[Affective Behaviour Analysis Using Pretrained Model with Facial Prior](https://arxiv.org/pdf/2207.11679) \\
+[![Star](https://img.shields.io/github/stars/JackYFL/EMMA_CoTEX_ABAW4.svg?style=social&label=Star) <br> Affective Behaviour Analysis Using Pretrained Model with Facial Prior](https://arxiv.org/pdf/2207.11679) \\
 **Yifan Li**, Haomiao Sun, Zhaori Liu, Hu Han, Shiguang Shan
 
 [**Paper**](https://arxiv.org/pdf/2207.11679) / [**Code**](https://github.com/JackYFL/EMMA_CoTEX_ABAW4) 
