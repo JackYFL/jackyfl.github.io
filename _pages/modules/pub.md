@@ -1,10 +1,21 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/VLM_trends.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[![Star](https://img.shields.io/github/stars/JackYFL/awesome-VLLMs.svg?style=social&label=Star) <br> Visual Large Language Models for Generalized and Specilized Applications](https://arxiv.org/pdf/2501.02765) \\
+**Yifan Li**, Zhixin Lai, Wentao Bao, Zhen Tan, Anh Dao, Kewei Sui, Jiayi Shen, Dong Liu, Huan Liu, Yu Kong
+
+[**Paper**](https://arxiv.org/pdf/2501.02765) /
+[**Project**](https://github.com/JackYFL/awesome-VLLMs) 
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ECCV 2024</div><img src="./images/EmoLAv2_ECCV2024.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[Facial Affective Behavior Analysis with Instruction Tuning](https://arxiv.org/pdf/2404.05052) \\
+[![Star](https://img.shields.io/github/stars/JackYFL/EmoLA.svg?style=social&label=Star) <br> Facial Affective Behavior Analysis with Instruction Tuning](https://arxiv.org/pdf/2404.05052) \\
 **Yifan Li**, Anh Dao, Wentao Bao, Zhen Tan, Tianlong Chen, Huan Liu, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2404.05052) /
@@ -28,7 +39,7 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2023</div><img src="./images/DISC_CVPR2023.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf) \\
+[![Star](https://img.shields.io/github/stars/JackYFL/DISC.svg?style=social&label=Star) <br> DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf) \\
 **Yifan Li**, Hu Han, Shiguang Shan, Xilin Chen
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf) / [**Code**](https://github.com/JackYFL/DISC) / [**Poster**](https://github.com/JackYFL/DISC/blob/main/assets/DISC_poster.png)
