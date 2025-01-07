@@ -22,3 +22,5 @@ redirect_from:
 
 {% include_relative modules/education.md %}
 
+{% include_relative modules/misc.md %}
+
