@@ -1,4 +1,5 @@
 # 🔥 News 
+- *2025.02*：&nbsp;🎉🎉🎉 Serve as the PC member of ACL-SRW! 
 - *2025.1*：&nbsp;🎉🎉🎉 We release our VLLM application paper! Please check this [link](https://arxiv.org/pdf/2501.02765) Thanks to all of my collaborators! 
 - *2024.12*：&nbsp;🎉🎉🎉 We release our VLLM application paper list repo! Please check this [link](https://github.com/JackYFL/awesome-VLLMs). Hope this repo will benefit the VLLM research community. Thanks to all of my collaborators! 
 - *2024.09*：&nbsp;🎉🎉🎉 One co-authored paper has been accepted by **EMNLP2024**! Thanks to all of my collaborators!
