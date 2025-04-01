@@ -1,6 +1,17 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPRW</div><img src="./images/wico.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[ <br> Window Token Concatenation for Efficient Visual Large Language Models]() \\
+**Yifan Li**, Wentao Bao, Botao Ye, Zhen Tan, Tianlong Chen, Huan Liu, Yu Kong
+
+[**Paper (coming soon!)**]() /
+[**Codes (coming soon!)**]() 
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/VLM_trends.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
