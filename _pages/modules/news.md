@@ -1,6 +1,6 @@
 # 🔥 News 
 - *2025.03*：&nbsp;🎉🎉🎉 One first author paper is accepted by **CVPRWorkshop 2025**! Thanks to all of my collaborators!
-- *2025.02*：&nbsp;🎉🎉🎉 One co-authered paper is accepted by **PAKDD**! Thanks to all of my collaborators!
+- *2025.02*：&nbsp;🎉🎉🎉 One co-authered paper is accepted by **PAKDD 2025**! Thanks to all of my collaborators!
 - *2025.02*：&nbsp;🎉🎉🎉 Serve as the PC member of **ACL-SRW 2025**! 
 - *2025.01*：&nbsp;🎉🎉🎉 We release our VLLM application paper! Please check this [link](https://arxiv.org/pdf/2501.02765) Thanks to all of my collaborators! 
 - *2024.12*：&nbsp;🎉🎉🎉 We release our VLLM application paper list repo! Please check this [link](https://github.com/JackYFL/awesome-VLLMs). Hope this repo will benefit the VLLM research community. Thanks to all of my collaborators! 
