@@ -1,4 +1,5 @@
 # 🔥 News 
+- *2025.04*：&nbsp;🎉🎉🎉 Successfully passing the qualifying exam!
 - *2025.03*：&nbsp;🎉🎉🎉 One first author paper is accepted by **CVPRWorkshop 2025**! Thanks to all of my collaborators!
 - *2025.02*：&nbsp;🎉🎉🎉 One co-authered paper is accepted by **PAKDD 2025**! Thanks to all of my collaborators!
 - *2025.02*：&nbsp;🎉🎉🎉 Serve as the PC member of **ACL-SRW 2025**! 
