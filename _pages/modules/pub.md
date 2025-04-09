@@ -4,11 +4,11 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPRW 2025</div><img src="./images/wico.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[ <br> Window Token Concatenation for Efficient Visual Large Language Models]() \\
+[ <br> Window Token Concatenation for Efficient Visual Large Language Models](https://github.com/JackYFL/WiCo/blob/main/README.md) \\
 **Yifan Li**, Wentao Bao, Botao Ye, Zhen Tan, Tianlong Chen, Huan Liu, Yu Kong
 
-[**Paper (coming soon!)**]() /
-[**Codes (coming soon!)**]() 
+[**Paper**](https://arxiv.org/pdf/2504.04024) /
+[**Codes**](https://github.com/JackYFL/WiCo/blob/main/README.md) 
 </div>
 </div>
 
