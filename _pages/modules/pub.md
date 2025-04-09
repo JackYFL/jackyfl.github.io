@@ -8,7 +8,7 @@
 **Yifan Li**, Wentao Bao, Botao Ye, Zhen Tan, Tianlong Chen, Huan Liu, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2504.04024) /
-[**Codes**](https://github.com/JackYFL/WiCo/blob/main/README.md) 
+[**Codes (coming soon)**](https://github.com/JackYFL/WiCo/blob/main/README.md) 
 </div>
 </div>
 
