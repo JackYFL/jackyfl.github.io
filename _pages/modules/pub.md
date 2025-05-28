@@ -5,7 +5,7 @@
 <div class="paper-box-text" markdown="1">
 
 [![Star](https://img.shields.io/github/stars/JackYFL/IndustryEQA.svg?style=social&label=Star) <br>  IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios](https://arxiv.org/pdf/2505.20640) \\
-**Yifan Li**, Yuhang Chen, Anh Dao, Lichi Li, Zhongyi Cai, Zhen Tan, Tianlong Chen, Yu Kong
+**Yifan Li***, Yuhang Chen*, Anh Dao*, Lichi Li, Zhongyi Cai, Zhen Tan, Tianlong Chen, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2505.20640) /
 [**Benchmark**](https://huggingface.co/datasets/IndustryEQA/IndustryEQA) /
