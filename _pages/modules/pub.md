@@ -9,7 +9,7 @@
 
 [**Paper**](https://arxiv.org/pdf/2505.20640) /
 [**Benchmark**](https://huggingface.co/datasets/IndustryEQA/IndustryEQA) /
-[**Codes**](https://github.com/JackYFL/IndustryEQA) 
+[**Code**](https://github.com/JackYFL/IndustryEQA) 
 </div>
 </div>
 
