@@ -1,6 +1,18 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/IndustryEQA.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[![Star](https://img.shields.io/github/stars/JackYFL/IndustryEQA.svg?style=social&label=Star) <br>  IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios](https://arxiv.org/pdf/2505.20640) \\
+**Yifan Li**, Yuhang Chen, Anh Dao, Lichi Li, Zhongyi Cai, Zhen Tan, Tianlong Chen, Yu Kong
+
+[**Paper**](https://arxiv.org/pdf/2505.20640) /
+[**Benchmark**](https://huggingface.co/datasets/IndustryEQA/IndustryEQA) /
+[**Codes**](https://github.com/JackYFL/IndustryEQA) 
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPRW 2025</div><img src="./images/wico.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
