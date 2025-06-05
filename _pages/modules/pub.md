@@ -4,6 +4,17 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/IndustryEQA.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
+[ ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads](https://arxiv.org/pdf/2506.03433) \\
+**Yifan Li**\*, Xin Li, Tianqin Li, Wenbin He, Yu Kong, Ren Liu
+
+[**Paper**](https://arxiv.org/pdf/2506.03433) /
+[**Project**](https://jackyfl.github.io/vitsplit.github.io/)
+</div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/vitsplit-framework.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
 [![Star](https://img.shields.io/github/stars/JackYFL/IndustryEQA.svg?style=social&label=Star) <br>  IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios](https://arxiv.org/pdf/2505.20640) \\
 **Yifan Li**\*, Yuhang Chen\*, Anh Dao\*, Lichi Li, Zhongyi Cai, Zhen Tan, Tianlong Chen, Yu Kong
 
