@@ -1,5 +1,5 @@
 # 🔥 News 
-- *2025.06*：&nbsp;🎉🎉🎉 Our ViT-Split has been accepted by ICCV25, thanks to all of my collaborators!
+- *2025.06*：&nbsp;🎉🎉🎉 Our ViT-Split has been accepted by **ICCV 2025**, thanks to all of my collaborators!
 - *2025.05*：&nbsp;🎉🎉🎉 Starting my internship at **Adobe**!
 - *2025.04*：&nbsp;🎉🎉🎉 Successfully passing the qualifying exam!
 - *2025.03*：&nbsp;🎉🎉🎉 One first author paper is accepted by **CVPRWorkshop 2025**! Thanks to all of my collaborators!
