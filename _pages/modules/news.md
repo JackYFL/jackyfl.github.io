@@ -25,7 +25,7 @@
 </details>
 
 <details close>
-<summary>Previous News 🗂️ 🗂️ 🗂️ (click)
+<summary>Previous News 🗂️ 🗂️ 🗂️
 </summary>
 <div markdown="1">
 
