@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifan Li (Jack)"
   avatar           : "images/Jack2.jpg"
-  bio              : "Michigan State University"
+  bio              : 3rd-year Phd Student
   location         : "East Lansing, MI, USA"
-  employer         :
+  employer         : "Michigan State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KIWyHMMAAAAJ"
   email            : "liyifa11@msu.edu"
