@@ -19,6 +19,7 @@
 **Yifan Li**\*, Yuhang Chen\*, Anh Dao\*, Lichi Li, Zhongyi Cai, Zhen Tan, Tianlong Chen, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2505.20640) /
+[**Project**](https://johnx69.github.io/IndustryEQA/#benchmark) /
 [**Benchmark**](https://huggingface.co/datasets/IndustryEQA/IndustryEQA) /
 [**Code**](https://github.com/JackYFL/IndustryEQA) 
 </div>

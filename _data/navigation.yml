@@ -18,8 +18,8 @@ main:
   - title: "Work Experience"
     url: "/#-work-experience"
     
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
   - title: "Misc"
     url: "/#-misc"
