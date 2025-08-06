@@ -21,11 +21,13 @@
 
 - *2025.01*：&nbsp;🎉🎉🎉 We release our VLLM application paper! Please check this [link](https://arxiv.org/pdf/2501.02765) Thanks to all of my collaborators! 
 
+</div>
 </details>
 
 <details close>
 <summary>Previous News 🗂️ 🗂️ 🗂️ (click)
 </summary>
+<div markdown="1">
 
 - *2024.12*：&nbsp;🎉🎉🎉 We release our VLLM application paper list repo! Please check this [link](https://github.com/JackYFL/awesome-VLLMs). Hope this repo will benefit the VLLM research community. Thanks to all of my collaborators! 
 
@@ -41,4 +43,5 @@
 
 - *2023.06*: &nbsp;🎉 One paper is accepted by **CVPR 2023**. 
 
+</div>
 </details>
