@@ -3,6 +3,8 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
+- *2025.08*：&nbsp;🎉🎉🎉 One co-authored paper on VLLMs with task-aware resolution has been accepted by EMNLP2025, congrats to Weiqing!
+
 - *2025.07*：&nbsp;🎉🎉🎉 Our team ActionLab has achieved 3-rd place in [**ICCV VQualA Workshop 2025**](https://codalab.lisn.upsaclay.fr/competitions/23016#results), congrats to Anh Dao!
 
 - *2025.06*：&nbsp;🎉🎉🎉 Our ViT-Split has been accepted by **ICCV 2025**, thanks to all of my collaborators!
