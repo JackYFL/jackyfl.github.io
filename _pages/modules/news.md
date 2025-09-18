@@ -3,7 +3,7 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
-- *2025.09*：&nbsp;🎉🎉🎉 One first authored paper on embodied question answering in industry scenario has been accepted, congrats to all of my co-authors! You are awesome!
+- *2025.09*：&nbsp;🎉🎉🎉 One first authored paper **IndustryEQA** on embodied question answering in industry scenario has been accepted by **NeurlPS25 D&B**, congrats to all of my co-authors! You are awesome!
 
 - *2025.08*：&nbsp;🎉🎉🎉 One co-authored paper on VLLMs with task-aware resolution has been accepted by **EMNLP2025 (main)**, congrats to Weiqing!
 
