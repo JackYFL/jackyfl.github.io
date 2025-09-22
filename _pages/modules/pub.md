@@ -6,6 +6,7 @@
 
 [![Star](https://img.shields.io/github/stars/JackYFL/ViT-Split.svg?style=social&label=Star) <br> ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads](https://arxiv.org/pdf/2506.03433) \\
 **Yifan Li**, Xin Li, Tianqin Li, Wenbin He, Yu Kong, Ren Liu
+
 [**Paper**](https://arxiv.org/pdf/2506.03433) /
 [**Code**](https://github.com/JackYFL/ViT-Split) /
 [**Project**](https://jackyfl.github.io/vitsplit.github.io/)
