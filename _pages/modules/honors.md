@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.10*: NeurlPS 2025 Scholar Award.
 - *2025.07*: Our team won the **third place** of the [**VQualA 2025**](https://codalab.lisn.upsaclay.fr/competitions/23016#results) Challenge.
 - *2023.05*: **Zhiqiang Scholarship** of ICT.
 - *2023.05, 2022.05*: **Merit Student** of Chinese Academy of Sciences.

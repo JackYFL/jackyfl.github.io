@@ -3,6 +3,8 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
+- *2025.10*：&nbsp;🎉🎉🎉 I have recieved NeurlPS 2025 Scholar Award! Thanks NeurlPS!
+
 - *2025.09*：&nbsp;🎉🎉🎉 One first authored paper **IndustryEQA** on embodied question answering in industry scenario has been accepted by **NeurlPS 2025 D&B**, congrats to all of my co-authors! You are awesome!
 
 - *2025.08*：&nbsp;🎉🎉🎉 One co-authored paper on VLLMs with task-aware resolution has been accepted by **EMNLP 2025 (main)**, congrats to Weiqing!
