@@ -94,8 +94,14 @@
 </div>
 </div>
 
+- ``CVPRW 2024`` [The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative](https://arxiv.org/pdf/2402.14859), Zhen Tan, Chengshuai Zhao, Raha Moraffah, **Yifan Li**, Yu Kong, Tianlong Chen, Huan Liu
+
 
 ## 📖 Natural Language Processing
+
+- ``EMNLP 2025`` [Task-Aware Resolution Optimization for Visual Large Language Models](https://arxiv.org/pdf/2510.09822), Weiqing Luo, Zhen Tan, **Yifan Li**, Xinyu Zhao, Kwonjoon Lee, Behzad Dariush, Tianlong Chen
+
+- ``PAKDD 2024`` [Smoa: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](https://arxiv.org/pdf/2411.03284?), Dawei Li, Zhen Tan, Peijia Qian, **Yifan Li**, Kumar Satvik Chaudhary, Lijie Hu, Jiayi Shen
 
 - ``EMNLP 2024`` ["Glue pizza and eat rocks" - Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](https://arxiv.org/pdf/2406.19417), Zhen Tan, Chengshuang Zhao, RahaMoraffah, **Yifan Li**, Song Wang, Jundong Li, Tianlong Chen, Huan Liu
 
