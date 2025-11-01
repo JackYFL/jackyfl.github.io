@@ -96,7 +96,6 @@
 
 - ``CVPRW 2024`` [The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative](https://arxiv.org/pdf/2402.14859), Zhen Tan, Chengshuai Zhao, Raha Moraffah, **Yifan Li**, Yu Kong, Tianlong Chen, Huan Liu
 
-
 ## 📖 Natural Language Processing
 
 - ``EMNLP 2025`` [Task-Aware Resolution Optimization for Visual Large Language Models](https://arxiv.org/pdf/2510.09822), Weiqing Luo, Zhen Tan, **Yifan Li**, Xinyu Zhao, Kwonjoon Lee, Behzad Dariush, Tianlong Chen

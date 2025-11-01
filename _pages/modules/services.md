@@ -9,6 +9,7 @@
 
 ## Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>) 
+- IEEE Transactions on Image Processing (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">TIP</a>) 
 - IEEE Transactions on Circuits and Systems for Video Technology (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>) 
 - IEEE Transactions on Multimedia (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>) 
 - IEEE Transactions on Biometrics, Behavior, and Identity Science (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754">TBIOM</a>) 
