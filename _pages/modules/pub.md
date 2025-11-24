@@ -5,7 +5,7 @@
 <div class="paper-box-text" markdown="1">
 
 [ <br> IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/pdf/2511.17384) \\
-**Yifan Li**, Lichi Li, Anh Dao, Xinyu Zhou, Yicheng Qiao, Zheda Mai, Daeun Lee, Zichen Chen, Zhen Tan, Mohit Bansal, Yu Kong
+**Yifan Li**\*, Lichi Li\*, Anh Dao\*, Xinyu Zhou, Yicheng Qiao, Zheda Mai, Daeun Lee, Zichen Chen, Zhen Tan, Mohit Bansal, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2511.17384) /
 [**Project**](https://anhdao69.github.io/IndustryEQA_website/)
