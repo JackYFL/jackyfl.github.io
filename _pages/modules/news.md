@@ -3,6 +3,8 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
+- *2025.11*：&nbsp;🎉🎉🎉 Our paper on exploring the spatial reasoning in dynamic [industry navigation](https://arxiv.org/pdf/2511.17384) has been released!
+
 - *2025.10*：&nbsp;🎉🎉🎉 I have recieved NeurlPS 2025 Scholar Award! Thanks NeurlPS!
 
 - *2025.09*：&nbsp;🎉🎉🎉 One first authored paper **IndustryEQA** on embodied question answering in industry scenario has been accepted by **NeurlPS 2025 D&B**, congrats to all of my co-authors! You are awesome!

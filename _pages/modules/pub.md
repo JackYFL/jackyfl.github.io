@@ -1,6 +1,17 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/IndustryNav.jpg" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[ <br> IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/pdf/2511.17384) \\
+**Yifan Li**, Lichi Li, Anh Dao, Xinyu Zhou, Yicheng Qiao, Zheda Mai, Daeun Lee, Zichen Chen, Zhen Tan, Mohit Bansal, Yu Kong
+
+[**Paper**](https://arxiv.org/pdf/2511.17384) /
+[**Project**](https://anhdao69.github.io/IndustryEQA_website/)
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCV 2025</div><img src="./images/vitsplit-framework.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
