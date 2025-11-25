@@ -8,7 +8,7 @@
 **Yifan Li**\*, Lichi Li\*, Anh Dao\*, Xinyu Zhou, Yicheng Qiao, Zheda Mai, Daeun Lee, Zichen Chen, Zhen Tan, Mohit Bansal, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2511.17384) /
-[**Project**](https://anhdao69.github.io/IndustryNav_website/)
+[**Project**](https://jackyfl.github.io/IndustryEQA_project_page/)
 </div>
 </div>
 
@@ -31,7 +31,7 @@
 **Yifan Li**\*, Yuhang Chen\*, Anh Dao\*, Lichi Li, Zhongyi Cai, Zhen Tan, Tianlong Chen, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2505.20640) /
-[**Project**](https://johnx69.github.io/IndustryEQA/) /
+[**Project**](https://jackyfl.github.io/IndustryEQA_project_page/) /
 [**Benchmark**](https://huggingface.co/datasets/IndustryEQA/IndustryEQA) /
 [**Code**](https://github.com/JackYFL/IndustryEQA) 
 </div>
@@ -66,7 +66,7 @@
 **Yifan Li**, Anh Dao, Wentao Bao, Zhen Tan, Tianlong Chen, Huan Liu, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2404.05052) /
-[**Project**](https://johnx69.github.io/FABA/) /
+[**Project**](https://jackyfl.github.io/FABA_project_page/) /
 [**Code**](https://github.com/JackYFL/EmoLA) 
 </div>
 </div>
