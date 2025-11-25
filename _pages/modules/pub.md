@@ -8,7 +8,7 @@
 **Yifan Li**\*, Lichi Li\*, Anh Dao\*, Xinyu Zhou, Yicheng Qiao, Zheda Mai, Daeun Lee, Zichen Chen, Zhen Tan, Mohit Bansal, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2511.17384) /
-[**Project**](https://jackyfl.github.io/IndustryEQA_project_page/)
+[**Project**](https://jackyfl.github.io/IndustryNav_project_page/)
 </div>
 </div>
 
