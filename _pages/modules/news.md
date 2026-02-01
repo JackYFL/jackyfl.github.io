@@ -3,6 +3,8 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
+- *2026.1*: &nbsp;🎉 I will serve as the reviewer of ICML2026!
+
 - *2025.11*：&nbsp;🎉🎉🎉 Our paper on exploring the spatial reasoning in dynamic [industry navigation](https://arxiv.org/pdf/2511.17384) has been released!
 
 - *2025.10*：&nbsp;🎉🎉🎉 I have recieved NeurlPS 2025 Scholar Award! Thanks NeurlPS!
