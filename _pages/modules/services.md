@@ -1,7 +1,7 @@
 # 💬 Academic Services
 
 ## Conference Reviewer
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr2023.thecvf.com/">2023</a>, <a href="https://cvpr.thecvf.com/Conferences/2024">2024</a>, <a href="https://cvpr.thecvf.com">2025</a>
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr2023.thecvf.com/">2023</a>, <a href="https://cvpr.thecvf.com/Conferences/2024">2024</a>, <a href="https://cvpr.thecvf.com/Conferences/2025">2025</a>, <a href="https://cvpr.thecvf.com">2026</a>
 - Conference on Neural Information Processing Systems (NeurlPS): <a href="https://neurips.cc/Conferences/2021">2021</a>, <a href="https://neurips.cc/Conferences/2023">2023</a> 
 - International Conference on Machine Learning (ICML): <a href="https://icml.cc/">2026</a>
 - Association for the Advancement of Artificial Intelligence (AAAI): <a href="https://aaai.org/about-aaai/">2025</a>, <a href="https://aaai.org/conference/aaai/aaai-26/">2026</a>
