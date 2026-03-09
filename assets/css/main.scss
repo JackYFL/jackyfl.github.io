@@ -110,14 +110,14 @@ h1:before, .anchor:before {
 
 .internship-item {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     gap: 12px;
     flex-wrap: nowrap;
     margin: 1.2rem 0;
 
     .internship-logo {
-        width: 180px;
-        height: 180px;
+        width: 90px;
+        height: 90px;
         object-fit: contain;
         object-position: left center;
         flex: 0 0 auto;
