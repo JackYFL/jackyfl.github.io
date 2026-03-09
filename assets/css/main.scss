@@ -107,3 +107,23 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.internship-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin: 1.2rem 0;
+
+    .internship-logo {
+        width: 120px;
+        height: 36px;
+        object-fit: contain;
+        object-position: left center;
+    }
+
+    .internship-content {
+        flex: 1;
+        min-width: 260px;
+    }
+}
