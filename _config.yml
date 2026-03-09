@@ -9,7 +9,7 @@
 title                    : "Yifan Li (李一帆)"
 description              : "Ph. D. Student, Michigan State University"
 repository               : "JackYFL/jackyfl.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_citations     : 518 # manually maintain this number
 
 # google analytics
 google_analytics_id      :  KIWyHMMAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
@@ -68,7 +68,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

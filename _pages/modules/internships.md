@@ -4,7 +4,7 @@
   <img class="internship-logo" src="/images/Adobe-logo.jpg" alt="Adobe logo">
   <div class="internship-content">
     <h2>Research Scientist/ Engineering Intern at Adobe</h2>
-    <p><em>2025.5 - 2025.8</em>: Develop an efficient vision transformer with linear attention. Happy to work with <a href="https://sites.google.com/site/trungbuistanford">Trung H. Bui</a>, <a href="http://david-yoon.github.io/">David Seunghyun Yoon</a>, <a href="https://scholar.google.com/citations?user=kz2aIc8AAAAJ&amp;hl=zh-CN">Franck Dernoncourt</a> and <a href="http://jasonkuen.com/">Jason Kuen</a>.</p>
+    <p><em>2025.5 - 2026.5</em>: Develop an efficient vision transformer with linear attention. Happy to work with <a href="https://sites.google.com/site/trungbuistanford">Trung H. Bui</a>, <a href="http://david-yoon.github.io/">David Seunghyun Yoon</a>, <a href="https://scholar.google.com/citations?user=kz2aIc8AAAAJ&amp;hl=zh-CN">Franck Dernoncourt</a> and <a href="http://jasonkuen.com/">Jason Kuen</a>.</p>
   </div>
 </div>
 
