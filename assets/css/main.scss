@@ -111,19 +111,20 @@ h1:before, .anchor:before {
 .internship-item {
     display: flex;
     align-items: flex-start;
-    gap: 16px;
-    flex-wrap: wrap;
+    gap: 12px;
+    flex-wrap: nowrap;
     margin: 1.2rem 0;
 
     .internship-logo {
-        width: 120px;
-        height: 36px;
+        width: 90px;
+        height: 28px;
         object-fit: contain;
         object-position: left center;
+        flex: 0 0 auto;
     }
 
     .internship-content {
         flex: 1;
-        min-width: 260px;
+        min-width: 0;
     }
 }
