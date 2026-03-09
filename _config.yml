@@ -32,7 +32,7 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Yifan_Li136" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   blog             : "https://jackyfl.github.io/JackYFL-blogs/"
-  blog_icon        : "fas fa-fw fa-blog" # Font Awesome class, e.g., "fas fa-fw fa-rss"
+  blog_icon        : "fas fa-fw fa-rss" # Font Awesome class, e.g., "fas fa-fw fa-link"
   bitbucket        :
   codepen          :
   dribbble         :
