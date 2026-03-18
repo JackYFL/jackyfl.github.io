@@ -1,6 +1,16 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/adala.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[ <br> ViT-AdaLA: Adapting Vision Transformers with Linear Attention](https://arxiv.org/pdf/2603.16063) \\
+**Yifan Li**, Seunghyun Yoon, Viet Dac Lai, Franck Dernoncourt, Jason Kuen, Yu Kong, Trung Bui
+
+[**Paper**](https://arxiv.org/pdf/2603.16063)
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/IndustryNav.jpg" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
