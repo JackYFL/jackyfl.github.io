@@ -3,6 +3,9 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
+- *2026.3*: &nbsp;🎉 I will serve as the reviewer of **NeurlPS 2026**!
+
+
 - *2026.2*: &nbsp;🎉 I will serve as the reviewer of **ECCV 2026**!
 
 - *2026.1*: &nbsp;🎉 I will serve as the reviewer of **ICML 2026** and **FG 2026**!
