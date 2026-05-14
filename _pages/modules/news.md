@@ -3,8 +3,11 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
-- *2026.3*: &nbsp;🎉 I will serve as the reviewer of **NeurlPS 2026**!
+- *2026.5*: &nbsp;🎉🎉🎉 Starting my internship at **Amazon**!
 
+- *2026.5*: &nbsp;🎉 Recieve the **Silver Reviewer Award** from **ICML 2026**!
+
+- *2026.3*: &nbsp;🎉 I will serve as the reviewer of **NeurlPS 2026**!
 
 - *2026.2*: &nbsp;🎉 I will serve as the reviewer of **ECCV 2026**!
 
