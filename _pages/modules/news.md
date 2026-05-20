@@ -1,7 +1,9 @@
 # 🔥 News 
 <details open>
-<summary>Current News 📣 📣 📣</summary>
+<summary>2026 📣 📣 📣</summary>
 <div markdown="1">
+
+- *2026.5*: &nbsp;🎉🎉🎉 Our team **RoboAction** has achieved the 9-th place (9/62) in Lehome Challenge! Check this leaderboard: [link](https://lehome-challenge.com)!
 
 - *2026.5*: &nbsp;🎉🎉🎉 Our paper **SP-VTP** on spatially prompted visual trajectory prediction for egocentric manipulation has been released! Please check this [link](https://arxiv.org/pdf/2605.20085).
 
@@ -14,6 +16,13 @@
 - *2026.2*: &nbsp;🎉 I will serve as the reviewer of **ECCV 2026**!
 
 - *2026.1*: &nbsp;🎉 I will serve as the reviewer of **ICML 2026** and **FG 2026**!
+
+</div>
+</details>
+
+<details>
+<summary>2025 🗂️ 🗂️ 🗂️</summary>
+<div markdown="1">
 
 - *2025.11*：&nbsp;🎉🎉🎉 Our paper on exploring the spatial reasoning in dynamic [industry navigation](https://arxiv.org/pdf/2511.17384) has been released!
 
@@ -44,9 +53,8 @@
 </div>
 </details>
 
-<details close>
-<summary>Previous News 🗂️ 🗂️ 🗂️
-</summary>
+<details>
+<summary>2024 🗂️ 🗂️ 🗂️</summary>
 <div markdown="1">
 
 - *2024.12*：&nbsp;🎉🎉🎉 We release our VLLM application paper list repo! Please check this [link](https://github.com/JackYFL/awesome-VLLMs). Hope this repo will benefit the VLLM research community. Thanks to all of my collaborators! 
@@ -56,6 +64,13 @@
 - *2024.07*：&nbsp;🎉🎉🎉 One first author paper has been accepted by **ECCV2024**! Thanks to all of my co-authors, you are awesome !!!
 
 - *2024.05*: &nbsp;🎉🎉🎉 Starting my internship at **Bosch**!
+
+</div>
+</details>
+
+<details>
+<summary>2023 🗂️ 🗂️ 🗂️</summary>
+<div markdown="1">
 
 - *2023.08*: &nbsp;🎉 One paper is accepted by **BMVC**! 
 
