@@ -1,5 +1,6 @@
 # 🎖 Honors and Awards
 - *2026.5*: ICML 2026 Silver Reviewer Award.
+- *2026.5*: Our team **RoboAction** achieved the **9-th place (9/62)** in the [**Lehome Challenge**](https://lehome-challenge.com).
 - *2025.10*: NeurlPS 2025 Scholar Award.
 - *2025.07*: Our team won the **third place** of the [**VQualA 2025**](https://codalab.lisn.upsaclay.fr/competitions/23016#results) Challenge.
 - *2023.05*: **Zhiqiang Scholarship** of ICT.
