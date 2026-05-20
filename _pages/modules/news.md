@@ -3,6 +3,8 @@
 <summary>Current News 📣 📣 📣</summary>
 <div markdown="1">
 
+- *2026.5*: &nbsp;🎉🎉🎉 Our paper **SP-VTP** on spatially prompted visual trajectory prediction for egocentric manipulation has been released! Please check this [link](https://arxiv.org/pdf/2605.20085).
+
 - *2026.5*: &nbsp;🎉🎉🎉 Starting my internship at **Amazon**!
 
 - *2026.5*: &nbsp;🎉 Recieve the **Silver Reviewer Award** from **ICML 2026**!

@@ -1,6 +1,19 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/spvpt-intro.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[<br> SP-VTP: Spatially Prompted Visual Trajectory Prediction for Egocentric Manipulation](https://arxiv.org/pdf/2605.20085) \\
+**Yifan Li**\*, Xinyu Zhou\*, Yunhao Ge, Yu Kong
+
+[**Paper**](https://arxiv.org/pdf/2605.20085) /
+[**Project**](https://jackyfl.github.io/SP-VTP-project-page/) /
+[**Code (coming soon)**]() /
+[**Data**](https://huggingface.co/datasets/JackYFL233/EgoSPT/tree/main)
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/adala.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
