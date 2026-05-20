@@ -16,6 +16,8 @@ redirect_from:
 
 {% include_relative modules/honors.md %}
 
+{% include_relative modules/mentoring.md %}
+
 {% include_relative modules/services.md %}
 
 {% include_relative modules/internships.md %}
