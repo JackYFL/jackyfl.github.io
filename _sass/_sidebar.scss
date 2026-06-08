@@ -69,6 +69,11 @@
    Author profile and links
    ========================================================================== */
 .profile_box{
+  padding: 1rem;
+  border: 1px solid rgba(219, 228, 238, 0.88);
+  border-radius: $border-radius;
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: $box-shadow;
   @include breakpoint($large) {
     display: block;
   }
@@ -95,10 +100,11 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    box-shadow: 0 14px 32px rgba(21, 48, 78, 0.16);
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 4px;
+      border: 3px solid #fff;
     }
   }
 }
@@ -121,6 +127,8 @@
 
 .author__name {
   margin: 0;
+  color: #162d46;
+  letter-spacing: 0;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -235,20 +243,22 @@
 
   li {
     white-space: nowrap;
+    color: #42566b;
   }
 
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding: 5px 7px;
+    border-radius: 7px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0.95em;
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: $info-color;
+      background: rgba(17, 106, 123, 0.08);
+      text-decoration: none;
     }
   }
 }
@@ -260,8 +270,10 @@
   a {
     color: inherit;
     text-decoration: none;
+    margin-right: 0.15em;
     &:hover {
-      text-decoration: underline;
+      color: $info-color;
+      text-decoration: none;
     }
   }
   @include breakpoint($large) {

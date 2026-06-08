@@ -11,9 +11,14 @@ body {
   margin: 0;
   padding: 0;
   padding-bottom: 0em;
+  background:
+    linear-gradient(180deg, rgba(232, 240, 248, 0.72) 0%, rgba(247, 249, 251, 0) 280px),
+    $background-color;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -25,7 +30,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 750;
+  color: #162d46;
 }
 
 h1 {
@@ -118,6 +124,9 @@ blockquote {
 /* links */
 
 a {
+  color: $link-color;
+  -webkit-transition: color 0.18s ease, border-color 0.18s ease, background-color 0.18s ease;
+  transition: color 0.18s ease, border-color 0.18s ease, background-color 0.18s ease;
   
   &:focus {
     @extend %tab-focus;
@@ -126,6 +135,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: $link-color-hover;
   }
 }
 
