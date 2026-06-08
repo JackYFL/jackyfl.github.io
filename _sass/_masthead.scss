@@ -5,21 +5,22 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: rgba(255, 255, 255, 0.86);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(247, 251, 252, 0.88));
   border-bottom: 1px solid rgba(219, 228, 238, 0.78);
   -webkit-backdrop-filter: saturate(180%) blur(18px);
           backdrop-filter: saturate(180%) blur(18px);
-  box-shadow: 0 8px 24px rgba(21, 48, 78, 0.06);
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  box-shadow: 0 10px 30px rgba(21, 48, 78, 0.08);
+  -webkit-animation: intro 0.16s both;
+          animation: intro 0.16s both;
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
   z-index: 20;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: .6em .75em;
+    padding: .72em .85em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -63,4 +64,3 @@
     font-weight: 800;
   }
 }
-

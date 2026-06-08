@@ -60,8 +60,33 @@ $(document).ready(function(){
   // init smooth scroll
   $("a").smoothScroll({offset: -20});
 
-  // add lightbox class to all image links
-  $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+  var getImagePreviewSrc = function(href) {
+    if (!href) {
+      return null;
+    }
+
+    var imagePath = href.split(/[?#]/)[0];
+    var githubImage = imagePath.match(/^https?:\/\/github\.com\/([^\/]+)\/([^\/]+)\/(?:blob|tree)\/([^\/]+)\/(.+)$/i);
+
+    if (githubImage && /\.(jpe?g|png|gif|webp)$/i.test(githubImage[4])) {
+      return "https://raw.githubusercontent.com/" + githubImage[1] + "/" + githubImage[2] + "/" + githubImage[3] + "/" + githubImage[4];
+    }
+
+    if (/\.(jpe?g|png|gif|webp)$/i.test(imagePath)) {
+      return href;
+    }
+
+    return null;
+  };
+
+  // add lightbox class to all image links, including GitHub-hosted poster links
+  $("a").each(function() {
+    var previewSrc = getImagePreviewSrc($(this).attr("href"));
+
+    if (previewSrc) {
+      $(this).addClass("image-popup").attr("data-mfp-src", previewSrc);
+    }
+  });
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
@@ -93,6 +118,46 @@ $(document).ready(function(){
     },
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+  });
+
+  // open publication preview images directly, even when they are not links
+  $(".paper-box-image").on("click", "> div", function(event) {
+    event.preventDefault();
+    event.stopPropagation();
+
+    var $images = $(".paper-box-image img");
+    var $clickedImage = $(this).find("img").first();
+    var currentIndex = $images.index($clickedImage);
+    var items = $images.map(function() {
+      var $image = $(this);
+
+      return {
+        src: $image.attr("src"),
+        title: $image.closest(".paper-box").find(".paper-box-text a:first").text().trim() || $image.attr("alt") || ""
+      };
+    }).get();
+
+    $.magnificPopup.open({
+      items: items,
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0,1]
+      },
+      image: {
+        tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
+        titleSrc: "title"
+      },
+      type: "image",
+      tLoading: "Loading image #%curr%...",
+      mainClass: "mfp-zoom-in",
+      removalDelay: 200,
+      callbacks: {
+        beforeOpen: function() {
+          this.st.image.markup = this.st.image.markup.replace("mfp-figure", "mfp-figure mfp-with-anim");
+        }
+      }
+    }, currentIndex);
   });
 
 });
