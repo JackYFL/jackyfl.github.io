@@ -1,3 +1,5 @@
+<span class='anchor' id='misc'></span>
+
 # ⚙️ Misc
 
 ## [**Daily ArXiv GPT Assistant**](https://jackyfl.github.io/gpt_paper_assistant/)
