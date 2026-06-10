@@ -200,7 +200,7 @@
     &:hover {
       color: $masthead-link-color-hover;
       background:
-        linear-gradient(135deg, rgba(17, 106, 123, 0.12), rgba(240, 168, 58, 0.1));
+        linear-gradient(135deg, rgba(17, 106, 123, 0.12), rgba(23, 64, 105, 0.08));
       box-shadow: 0 6px 14px rgba(21, 48, 78, 0.08);
       transform: translateY(-1px);
     }
@@ -235,7 +235,7 @@
         a {
           margin-left: 0;
           color: #fff;
-          background: linear-gradient(135deg, #174069, #116a7b 72%, #d88f2f);
+          background: linear-gradient(135deg, #174069, #116a7b);
           box-shadow: 0 8px 18px rgba(21, 48, 78, 0.14);
         }
       }
@@ -257,7 +257,7 @@
         bottom: 0.28rem;
         height: 2px;
         border-radius: 999px;
-        background: linear-gradient(90deg, $info-color, #b8792a);
+        background: linear-gradient(90deg, $primary-color, $info-color);
         width: 68%;
         -webkit-transition: transform 0.1s ease;
         transition: transform 0.1s ease;
