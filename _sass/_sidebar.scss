@@ -84,7 +84,7 @@
     position: absolute;
     inset: 0;
     border-top: 4px solid transparent;
-    border-image: linear-gradient(90deg, #174069, #116a7b) 1;
+    border-image: linear-gradient(90deg, #174069, #1c8a9d) 1;
     pointer-events: none;
   }
 
@@ -282,7 +282,7 @@
 
     &:hover {
       color: $info-color;
-      background: rgba(17, 106, 123, 0.08);
+      background: rgba(28, 138, 157, 0.08);
       text-decoration: none;
       transform: translateX(2px);
     }
