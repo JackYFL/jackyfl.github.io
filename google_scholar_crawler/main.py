@@ -1,8 +1,18 @@
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import jsonpickle
 import json
 from datetime import datetime
 import os
+
+# Google Scholar blocks datacenter IPs (e.g. GitHub Actions runners), so route
+# requests through ScraperAPI when a key is available. Without a key it connects
+# directly, which works from residential IPs (e.g. local runs).
+scraper_api_key = os.environ.get('SCRAPER_API_KEY')
+if scraper_api_key:
+    pg = ProxyGenerator()
+    if not pg.ScraperAPI(scraper_api_key):
+        raise RuntimeError('Failed to set up ScraperAPI proxy; check SCRAPER_API_KEY.')
+    scholarly.use_proxy(pg)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])

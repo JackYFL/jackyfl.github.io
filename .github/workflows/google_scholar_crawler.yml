@@ -26,8 +26,10 @@ jobs:
 
       - name: Run crawler
         # This Scholar ID is public (it is already in the site's Scholar URL).
+        # SCRAPER_API_KEY is a repo secret; without it Scholar blocks the runner IP.
         env:
           GOOGLE_SCHOLAR_ID: KIWyHMMAAAAJ
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
         run: |
           cd google_scholar_crawler
           python main.py
