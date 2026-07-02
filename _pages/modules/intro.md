@@ -13,7 +13,7 @@
 </div>
 
 <a class="scholar-badge" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Google%20Scholar%20Citations-{{ site.google_scholar_citations }}-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar citations">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data_shieldsio.json&label=Google%20Scholar%20Citations&labelColor=555&color=4285F4&logo=googlescholar&logoColor=white" alt="Google Scholar citations">
 </a>
 </section>
 
