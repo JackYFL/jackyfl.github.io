@@ -1,2 +1,5 @@
 scholarly
 jsonpickle
+# httpx >= 0.28 removed the `proxies` kwarg that scholarly still uses for
+# ScraperAPI/proxy setup, so pin below that.
+httpx<0.28
