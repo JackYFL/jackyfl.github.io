@@ -27,7 +27,7 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/IndustryNav.jpg" alt="sym" width="100%" loading="lazy" decoding="async"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[ <br> IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/pdf/2511.17384) \\
+[![Star](https://img.shields.io/github/stars/JackYFL/IndustryNav.svg?style=social&label=Star) <br> IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation](https://arxiv.org/pdf/2511.17384) \\
 **Yifan Li**\*, Lichi Li\*, Anh Dao\*, Xinyu Zhou, Yicheng Qiao, Zheda Mai, Daeun Lee, Zichen Chen, Zhen Tan, Mohit Bansal, Yu Kong
 
 [**Paper**](https://arxiv.org/pdf/2511.17384) /
