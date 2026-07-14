@@ -12,7 +12,10 @@ if scraper_api_key:
     pg = ProxyGenerator()
     if not pg.ScraperAPI(scraper_api_key):
         raise RuntimeError('Failed to set up ScraperAPI proxy; check SCRAPER_API_KEY.')
-    scholarly.use_proxy(pg)
+    # Pass ScraperAPI as both primary and secondary so scholarly does not fall
+    # back to its default FreeProxies generator (which is flaky and currently
+    # crashes against newer free-proxy versions).
+    scholarly.use_proxy(pg, pg)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
