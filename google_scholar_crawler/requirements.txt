@@ -1,8 +1,1 @@
-scholarly
-jsonpickle
-# httpx >= 0.28 removed the `proxies` kwarg that scholarly still uses for
-# ScraperAPI/proxy setup, so pin below that.
-httpx<0.28
-# bibtexparser 2.x (released 2026-09-08) dropped the `bibtexparser.bibdatabase`
-# module that scholarly imports at startup, so pin to the 1.x API.
-bibtexparser<2
+requests

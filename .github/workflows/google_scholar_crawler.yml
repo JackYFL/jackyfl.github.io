@@ -22,16 +22,15 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install -r google_scholar_crawler/requirements.txt
-          python -c "import httpx, scholarly; print('httpx', httpx.__version__)"
+        run: pip install -r google_scholar_crawler/requirements.txt
 
       - name: Run crawler
         # This Scholar ID is public (it is already in the site's Scholar URL).
-        # SCRAPER_API_KEY is a repo secret; without it Scholar blocks the runner IP.
+        # SERPAPI_KEY is a repo secret. SerpApi serves the Scholar author page
+        # as JSON, so the runner never talks to Scholar directly.
         env:
           GOOGLE_SCHOLAR_ID: KIWyHMMAAAAJ
-          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: |
           cd google_scholar_crawler
           python main.py
