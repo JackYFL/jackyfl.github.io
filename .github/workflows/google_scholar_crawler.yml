@@ -2,8 +2,9 @@ name: Google Scholar Citations
 
 on:
   schedule:
-    # Every 3 days at 08:00 UTC (days 1,4,7,...,28,31 of each month)
-    - cron: '0 8 */3 * *'
+    # Daily at 08:00 UTC. One SerpApi search per run, ~30/month against the
+    # free plan's 250, so the quota is not a constraint at this frequency.
+    - cron: '0 8 * * *'
   workflow_dispatch: # allow manual runs from the Actions tab
 
 permissions:
