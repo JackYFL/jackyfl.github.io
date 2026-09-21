@@ -1,14 +1,34 @@
 from scholarly import scholarly, ProxyGenerator
 import jsonpickle
 import json
+import logging
+import sys
 from datetime import datetime
 import os
+
+# Surface scholarly's own retry/captcha messages in the CI log. Without this the
+# job just fails after ~9 minutes of silent retries with no hint of the cause.
+logging.basicConfig(stream=sys.stdout, level=logging.INFO,
+                    format='%(asctime)s %(levelname)s %(name)s: %(message)s')
+scholarly.set_logger(True)
 
 # Google Scholar blocks datacenter IPs (e.g. GitHub Actions runners), so route
 # requests through ScraperAPI when a key is available. Without a key it connects
 # directly, which works from residential IPs (e.g. local runs).
 scraper_api_key = os.environ.get('SCRAPER_API_KEY')
 if scraper_api_key:
+    # Report remaining ScraperAPI quota up front. scholarly only checks that
+    # requestCount < requestLimit and otherwise stays quiet about it.
+    try:
+        import requests
+        account = requests.get('https://api.scraperapi.com/account',
+                               params={'api_key': scraper_api_key},
+                               timeout=30).json()
+        print('ScraperAPI account:', {k: account[k] for k in sorted(account)
+                                      if k != 'api_key'}, flush=True)
+    except Exception as exc:  # diagnostics only, never fatal
+        print(f'Could not read ScraperAPI account status: {exc!r}', flush=True)
+
     pg = ProxyGenerator()
     if not pg.ScraperAPI(scraper_api_key):
         raise RuntimeError('Failed to set up ScraperAPI proxy; check SCRAPER_API_KEY.')
@@ -17,8 +37,15 @@ if scraper_api_key:
     # crashes against newer free-proxy versions).
     scholarly.use_proxy(pg, pg)
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
-scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+scholar_id = os.environ['GOOGLE_SCHOLAR_ID']
+try:
+    author: dict = scholarly.search_author_id(scholar_id)
+    scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+except Exception as exc:
+    print(f'FAILED to fetch Scholar profile {scholar_id}: '
+          f'{type(exc).__name__}: {exc}', flush=True)
+    raise
+
 name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
