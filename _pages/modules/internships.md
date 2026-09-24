@@ -3,8 +3,8 @@
 <div class="internship-item">
   <img class="internship-logo" src="/images/amazon_logo.jpg" alt="Amazon logo" loading="lazy" decoding="async">
   <div class="internship-content">
-    <h2>Applied Research Scientist Intern at Amazon</h2>
-    <p><em>2026.5 - 2026.8</em>: Develop a multi-modal adaptation method based on knowledge distillation. Happy to work with <a href="https://scholar.google.com/citations?hl=zh-CN&user=fgF1HTsAAAAJ">Xiao Zeng</a>, <a href="https://scholar.google.com/citations?user=nvQampwAAAAJ&hl=zh-CN&oi=ao">Cheng-hao Kuo</a>, <a href="https://scholar.google.com/citations?user=1Rf6sGcAAAAJ&hl=zh-CN&oi=ao">Min Sun</a>.</p>
+    <h2>Applied Research Scientist Intern at Amazon Fauna Robotics</h2>
+    <p><em>2026.5 - 2026.8</em>: Develop an audio-visual adaptation method based on heterogeneous audio-visual knowledge distillation. Happy to work with <a href="https://scholar.google.com/citations?hl=zh-CN&user=fgF1HTsAAAAJ">Xiao Zeng</a>, <a href="https://scholar.google.com/citations?user=nvQampwAAAAJ&hl=zh-CN&oi=ao">Cheng-hao Kuo</a>, <a href="https://scholar.google.com/citations?user=1Rf6sGcAAAAJ&hl=zh-CN&oi=ao">Min Sun</a>.</p>
   </div>
 </div>
 
