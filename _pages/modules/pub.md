@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/adala.png" alt="sym" width="100%" loading="lazy" decoding="async"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurlPS 2026</div><img src="./images/adala.png" alt="sym" width="100%" loading="lazy" decoding="async"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [ <br> ViT-AdaLA: Adapting Vision Transformers with Linear Attention](https://arxiv.org/pdf/2603.16063) \\

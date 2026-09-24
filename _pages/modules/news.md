@@ -2,6 +2,7 @@
 <details open>
 <summary>2026 📣 📣 📣</summary>
 <div markdown="1">
+- *2026.9*: &nbsp;🎉🎉🎉 Two NeurlPS papers on linear attention for vision foundation models and diffusion have been accepted (one first, one co-authored)! Thanks our collaborators, and congrats Lehan!
 
 - *2026.5*: &nbsp;🎉🎉🎉 Our team **RoboAction** has achieved the 9th place (9/62) in Lehome Challenge! Check this leaderboard: [link](https://lehome-challenge.com)!
 
