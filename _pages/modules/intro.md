@@ -17,7 +17,12 @@
 </a>
 </section>
 
-Hi, I'm Yifan Li (李一帆), a 3rd-year Ph.D. student (2023-) at the Department of Computer Science and Engineering (CSE) of Michigan State University (MSU), supervised by Prof. [Yu Kong](https://scholar.google.com/citations?user=wXA8nb4AAAAJ&hl=zh-CN&oi=ao). Before that, I obtained my Master's degree (2020-2023) at the [VIPL](http://vipl.ict.ac.cn) group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) supervised by Prof. [Hu Han](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao), and I also collaborate closely with Prof. [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=zh-CN&oi=ao). I obtained my Bachelor's degree (2016-2020) at Northeastern University supervised by Prof. [Long Cheng](https://scholar.google.com/citations?user=Tmu1QacAAAAJ&hl=zh-CN).
+<div class="job-banner">
+  <span class="job-banner__icon" aria-hidden="true">💼</span>
+  <span class="job-banner__text"><strong>I'm on the job market</strong> and actively looking for full-time opportunities. Feel free to <a href="mailto:{{ site.author.email }}">reach out</a>!</span>
+</div>
+
+Hi, I'm Yifan Li (李一帆), a 4th-year Ph.D. student (2023-) at the Department of Computer Science and Engineering (CSE) of Michigan State University (MSU), supervised by Prof. [Yu Kong](https://scholar.google.com/citations?user=wXA8nb4AAAAJ&hl=zh-CN&oi=ao). Before that, I obtained my Master's degree (2020-2023) at the [VIPL](http://vipl.ict.ac.cn) group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) supervised by Prof. [Hu Han](https://scholar.google.com/citations?user=4v709-MAAAAJ&hl=zh-CN&oi=ao), and I also collaborate closely with Prof. [Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=zh-CN&oi=ao). I obtained my Bachelor's degree (2016-2020) at Northeastern University supervised by Prof. [Long Cheng](https://scholar.google.com/citations?user=Tmu1QacAAAAJ&hl=zh-CN).
 
 My research interest includes computer vision (CV) and deep learning (DL). My ultimate goal is to design the visual system for robots so that they can understand the visual world and humans can work with them collaboratively. More specifically, my current research interest is visual large language models (VLLMs), efficient visual foundation models (VFMs), and embodied question answering (EQA).
 
