@@ -17,7 +17,7 @@
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">NeurlPS 2026</div><img src="./images/adala.png" alt="sym" width="100%" loading="lazy" decoding="async"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[ <br> ViT-AdaLA: Adapting Vision Transformers with Linear Attention](https://arxiv.org/pdf/2603.16063) \\
+[![Star](https://img.shields.io/github/stars/JackYFL/ViT-AdaLA.svg?style=social&label=Star) <br> ViT-AdaLA: Adapting Vision Transformers with Linear Attention](https://arxiv.org/pdf/2603.16063) \\
 **Yifan Li**, Seunghyun Yoon, Viet Dac Lai, Franck Dernoncourt, Jason Kuen, Yu Kong, Trung Bui
 
 [**Paper**](https://arxiv.org/pdf/2603.16063) /
