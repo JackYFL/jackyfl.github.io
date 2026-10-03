@@ -20,7 +20,9 @@
 [ <br> ViT-AdaLA: Adapting Vision Transformers with Linear Attention](https://arxiv.org/pdf/2603.16063) \\
 **Yifan Li**, Seunghyun Yoon, Viet Dac Lai, Franck Dernoncourt, Jason Kuen, Yu Kong, Trung Bui
 
-[**Paper**](https://arxiv.org/pdf/2603.16063)
+[**Paper**](https://arxiv.org/pdf/2603.16063) /
+[**Project**](https://jackyfl.github.io/vitadala-project-page) /
+[**Code**](https://github.com/JackYFL/ViT-AdaLA)
 </div>
 </div>
 
