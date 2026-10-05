@@ -4,7 +4,7 @@
 <div markdown="1">
 - *2026.9*: &nbsp;🎉🎉🎉 Two papers "ViT-AdaLA: Adapting Vision Transformers with Linear Attention" and "PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion" have been accepted (one first, one co-authored) by **NeurlPS 2026**! Thanks our collaborators, and congrats Lehan!
 
-- *2026.9*：&nbsp;🎉🎉🎉 I will serve as the reviewer of **ICLR 20226**!
+- *2026.9*：&nbsp;🎉🎉🎉 I will serve as the reviewer of **ICLR 2027**!
 
 - *2026.5*: &nbsp;🎉🎉🎉 Our team **RoboAction** has achieved the 9th place (9/62) in Lehome Challenge! Check this leaderboard: [link](https://lehome-challenge.com)!
 
