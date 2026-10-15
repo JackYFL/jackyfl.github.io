@@ -2,6 +2,8 @@
 <details open>
 <summary>2026 📣 📣 📣</summary>
 <div markdown="1">
+- *2026。10*: &nbsp;🎉🎉🎉 Our paper "SP-VTP: Spatially Prompted Visual Trajectory Prediction for Egocentric Manipulation" has been accepted by **WACV 2027**! Thanks our collaborators! The codes will release soon : )
+
 - *2026.9*: &nbsp;🎉🎉🎉 Two papers "ViT-AdaLA: Adapting Vision Transformers with Linear Attention" and "PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion" have been accepted (one first, one co-authored) by **NeurlPS 2026**! Thanks our collaborators, and congrats Lehan!
 
 - *2026.9*：&nbsp;🎉🎉🎉 I will serve as the reviewer of **ICLR 2027**!

@@ -1,7 +1,7 @@
 # 📝 Publications 
 ## 👁️ Computer Vision
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ArXiv</div><img src="./images/spvpt-intro.png" alt="sym" width="100%" loading="lazy" decoding="async"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">WACV 2027</div><img src="./images/spvpt-intro.png" alt="sym" width="100%" loading="lazy" decoding="async"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [<br> SP-VTP: Spatially Prompted Visual Trajectory Prediction for Egocentric Manipulation](https://arxiv.org/pdf/2605.20085) \\
