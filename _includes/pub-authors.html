@@ -1,0 +1,8 @@
+{%- comment -%}
+  Helper: prints an author list with the site owner's name in bold.
+  Write the list as plain text, e.g. names="Yifan Li*, Xinyu Zhou*, Yu Kong";
+  * marks equal contribution and is shown as typed.
+{%- endcomment -%}
+{%- assign pub_me = "Yifan Li" -%}
+{%- assign pub_me_bold = "<strong>" | append: pub_me | append: "</strong>" -%}
+{{- include.names | escape | replace: pub_me, pub_me_bold -}}

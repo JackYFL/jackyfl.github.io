@@ -1,0 +1,21 @@
+{%- comment -%}
+  Filter panel for the Publications section. Topic tabs come from
+  _data/pub_filters.yml. Year buttons are added by assets/js/pub-filter.js from
+  each paper's data-year. The panel stays hidden when JavaScript is off.
+{%- endcomment -%}
+<div class="pub-filter" hidden>
+  <div class="pub-filter__row">
+  <span class="pub-filter__label" aria-hidden="true">Topic</span>
+  <div class="pub-filter__tags" role="group" aria-label="Filter publications by topic">
+{%- for tab in site.data.pub_filters %}
+    <button type="button" class="pub-filter__tab" data-filter="{{ tab.key }}" aria-pressed="{% if forloop.first %}true{% else %}false{% endif %}"{% if tab.title %} title="{{ tab.title | escape }}"{% endif %}>{{ tab.label | escape }}</button>
+{%- endfor %}
+  </div>
+  </div>
+  <div class="pub-filter__row">
+  <span class="pub-filter__label" aria-hidden="true">Year</span>
+  <div class="pub-filter__years" role="group" aria-label="Filter publications by year"></div>
+  </div>
+  <p class="pub-filter__status screen-reader-text" aria-live="polite"></p>
+</div>
+<p class="pub-filter__empty" hidden>No publications match this topic and year.</p>

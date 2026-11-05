@@ -1,0 +1,18 @@
+{%- comment -%}
+  Helper: prints a paper's year. Uses year="..." when given, otherwise the
+  first four-digit year in the venue ("ICCV 2025" gives 2025). Prints nothing
+  when neither has one, e.g. venue="ArXiv" without a year.
+{%- endcomment -%}
+{%- if include.year -%}
+  {{- include.year -}}
+{%- else -%}
+  {%- assign pub_year_found = "" -%}
+  {%- assign pub_year_words = include.venue | split: " " -%}
+  {%- for pub_year_word in pub_year_words -%}
+    {%- assign pub_year_number = pub_year_word | plus: 0 -%}
+    {%- if pub_year_found == "" and pub_year_number > 1900 and pub_year_number < 3000 -%}
+      {%- assign pub_year_found = pub_year_word -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {{- pub_year_found -}}
+{%- endif -%}

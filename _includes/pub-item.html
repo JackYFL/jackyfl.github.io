@@ -1,0 +1,11 @@
+{%- comment -%}
+  A one-line paper entry without an image (used for co-authored papers):
+  venue pill, linked title, authors.
+
+  Required:  venue  title  url  authors  tags
+  Optional:  year   only when venue has no year in it
+
+  Same conventions as _includes/pub-card.html.
+{%- endcomment -%}
+{%- capture pub_item_year -%}{% include pub-year.html venue=include.venue year=include.year %}{%- endcapture -%}
+<div class="pub-item" data-tags="{{ include.tags | escape }}" data-year="{{ pub_item_year | strip }}"><p><span class="pub-item__venue">{{ include.venue | escape }}</span> <a href="{{ include.url | escape }}">{{ include.title | escape }}</a>, {% include pub-authors.html names=include.authors %}</p></div>

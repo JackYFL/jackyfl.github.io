@@ -399,6 +399,264 @@ a {
     }
 }
 
+/* Publication filter: one panel in the paper-card style, with a labelled
+   topic row and a labelled year row whose pills start on the same edge. */
+.pub-filter {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    align-items: center;
+    gap: 0;
+    margin: 0.5rem 0 1.1rem;
+    padding: 0.35rem 1rem;
+    border: 1px solid rgba(219, 228, 238, 0.92);
+    border-radius: $border-radius;
+    background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(251, 253, 255, 0.94)),
+        #fff;
+    box-shadow: 0 10px 26px rgba(21, 48, 78, 0.06);
+
+    // display:grid above would otherwise override the hidden attribute.
+    &[hidden] {
+        display: none;
+    }
+}
+
+// Each row places its label in the first column and its options in the
+// second, so topics and years share one left edge. No divider: the year row
+// reads as a quiet second line of the same control.
+.pub-filter__row {
+    display: contents;
+}
+
+.pub-filter__label,
+.pub-filter__tags,
+.pub-filter__years {
+    padding: 0.62rem 0 0.3rem;
+}
+
+.pub-filter__row + .pub-filter__row > * {
+    padding: 0.1rem 0 0.55rem;
+}
+
+.pub-filter__label {
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+    padding-right: 0.95rem;
+    color: #2a8f54;
+    font-size: 0.7rem;
+    font-weight: 850;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.pub-filter__tags,
+.pub-filter__years {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+}
+
+.pub-filter__years {
+    gap: 0.1rem;
+}
+
+// Shared pill: topic tabs and year buttons are the same family.
+.pub-filter__tab,
+.pub-filter__year {
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    border: 1px solid rgba(86, 184, 124, 0.24);
+    border-radius: 999px;
+    background: #fff;
+    color: #16425f;
+    font-weight: 800;
+    line-height: 1.2;
+    cursor: pointer;
+    transition: transform 0.1s ease, box-shadow 0.1s ease, border-color 0.1s ease, background 0.1s ease, color 0.1s ease;
+
+    &:hover:not(:disabled) {
+        border-color: rgba(86, 184, 124, 0.5);
+        background: rgba(86, 184, 124, 0.08);
+        color: #2a8f54;
+        transform: translateY(-1px);
+    }
+
+    &:focus-visible {
+        outline: 2px solid #2a8f54;
+        outline-offset: 2px;
+    }
+}
+
+.pub-filter__tab {
+    gap: 0.42rem;
+    min-height: 2.1rem;
+    padding: 0.4rem 0.5rem 0.4rem 0.82rem;
+    font-size: 0.86rem;
+    box-shadow: 0 3px 10px rgba(21, 48, 78, 0.05);
+
+    &[aria-pressed="true"] {
+        border-color: transparent;
+        background: linear-gradient(135deg, #236b48, #56b87c);
+        color: #fff;
+        box-shadow: 0 8px 18px rgba(35, 107, 72, 0.22);
+
+        .pub-filter__count {
+            background: rgba(255, 255, 255, 0.24);
+            color: #fff;
+        }
+    }
+
+    &.is-empty:not([aria-pressed="true"]) {
+        opacity: 0.55;
+    }
+}
+
+.pub-filter__count {
+    min-width: 1.4rem;
+    padding: 0.1rem 0.42rem;
+    border-radius: 999px;
+    background: rgba(86, 184, 124, 0.13);
+    color: #2a8f54;
+    font-size: 0.74rem;
+    line-height: 1.3;
+    text-align: center;
+}
+
+// Years: plain text options, no border or fill until hovered or selected, so
+// the row stays light and the topic remains the primary choice.
+.pub-filter__year {
+    min-height: 1.75rem;
+    padding: 0.25rem 0.62rem;
+    border-color: transparent;
+    background: transparent;
+    color: #5b6e80;
+    font-size: 0.82rem;
+    font-weight: 750;
+    font-variant-numeric: tabular-nums;
+
+    // Neutral hover, so only the selected year is green.
+    &:hover:not(:disabled):not([aria-pressed="true"]) {
+        border-color: transparent;
+        background: rgba(18, 42, 66, 0.05);
+        color: #16425f;
+        transform: none;
+    }
+
+    &[aria-pressed="true"] {
+        transform: none;
+        background: rgba(86, 184, 124, 0.15);
+        color: #1f6a43;
+        font-weight: 850;
+    }
+
+    &:disabled {
+        color: rgba(91, 110, 128, 0.35);
+        cursor: default;
+    }
+}
+
+// Narrow screens: the label sits above its pills instead of beside them.
+@media (max-width: 599px) {
+    .pub-filter {
+        grid-template-columns: minmax(0, 1fr);
+        padding: 0.3rem 0.8rem;
+    }
+
+    .pub-filter__label {
+        padding: 0.65rem 0 0;
+    }
+
+    .pub-filter__tags {
+        padding-top: 0.45rem;
+    }
+
+    .pub-filter__row + .pub-filter__row > .pub-filter__label {
+        padding-top: 0.5rem;
+    }
+
+    .pub-filter__row + .pub-filter__row > .pub-filter__years {
+        padding-top: 0.3rem;
+    }
+}
+
+.pub-filter__empty {
+    margin: 1.05rem 0;
+    padding: 1rem 1.1rem;
+    border: 1px dashed rgba(86, 184, 124, 0.45);
+    border-radius: $border-radius;
+    background: rgba(86, 184, 124, 0.05);
+    color: #16425f;
+    font-weight: 700;
+    text-align: center;
+}
+
+// One-line paper entries (_includes/pub-item.html): a venue pill and a
+// card-style title. On wide screens the pill sits in a fixed left gutter so
+// titles and wrapped author lines share one left edge.
+$pub-pill-width: 7.3rem;
+$pub-pill-gap: 0.65rem;
+
+.pub-item {
+    margin: 0 0 0.75rem;
+
+    > p {
+        margin: 0;
+        line-height: 1.55;
+    }
+
+    .pub-item__venue {
+        display: inline-block;
+        box-sizing: border-box;
+        margin-right: 0.4rem;
+        padding: 0.16rem 0.55rem;
+        border: 1px solid rgba(86, 184, 124, 0.3);
+        border-radius: 999px;
+        background: rgba(86, 184, 124, 0.09);
+        color: #236b48;
+        font-family: $sans-serif;
+        font-size: 0.74rem;
+        font-weight: 850;
+        line-height: 1.45;
+        text-align: center;
+        vertical-align: 0.08em;
+        white-space: nowrap;
+    }
+
+    > p > a {
+        color: #122a42;
+        font-weight: 750;
+        text-decoration: none;
+        background-image: linear-gradient(120deg, rgba(86, 184, 124, 0.18), rgba(23, 64, 105, 0.08));
+        background-repeat: no-repeat;
+        background-size: 100% 0.28em;
+        background-position: 0 91%;
+
+        &:hover {
+            color: $info-color;
+        }
+    }
+
+    @include breakpoint($medium) {
+        > p {
+            padding-left: $pub-pill-width + $pub-pill-gap;
+        }
+
+        // Floated into the gutter, so the space after it falls at the start of
+        // the line and collapses: the title starts exactly at the gutter edge.
+        .pub-item__venue {
+            float: left;
+            width: $pub-pill-width;
+            margin: 0.1rem 0 0 (-($pub-pill-width + $pub-pill-gap));
+        }
+    }
+}
+
+.pub-filtered-out {
+    display: none !important;
+}
+
 $scroll_offset : 2em;
 h1 {
     position: relative;

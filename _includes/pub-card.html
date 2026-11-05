@@ -1,0 +1,44 @@
+{%- comment -%}
+  A paper card (image, venue badge, title, authors, link pills).
+
+  Required:  venue  image  title  authors  tags
+  Optional:  year     only when venue has no year in it, e.g. venue="ArXiv"
+             url      title link; defaults to paper
+             star     GitHub "owner/repo" for a star badge above the title
+             paper project code data benchmark appendix poster
+                      link URLs, shown in the order they are written;
+                      "soon" shows e.g. "Code (coming soon)" without a link
+
+  venue: badge text.  image: file name in images/.  tags: space-separated keys
+  from _data/pub_filters.yml.  authors: see _includes/pub-authors.html.
+{%- endcomment -%}
+{%- capture pub_card_year -%}{% include pub-year.html venue=include.venue year=include.year %}{%- endcapture -%}
+{%- assign pub_card_url = include.url | default: include.paper -%}
+{%- assign pub_link_keys = "paper,project,code,data,benchmark,appendix,poster" | split: "," -%}
+<div class="paper-box" data-tags="{{ include.tags | escape }}" data-year="{{ pub_card_year | strip }}"><div class="paper-box-image"><div><div class="badge">{{ include.venue | escape }}</div><img src="./images/{{ include.image | escape }}" alt="{{ include.title | escape }}" width="100%" loading="lazy" decoding="async"></div></div>
+<div class="paper-box-text">
+<p><a href="{{ pub_card_url | escape }}">{% if include.star %}<img src="https://img.shields.io/github/stars/{{ include.star | escape }}.svg?style=social&amp;label=Star" alt="Star"> <br> {% endif %}{{ include.title | escape }}</a> <br>
+{% include pub-authors.html names=include.authors %}</p>
+{%- assign pub_link_sep = "" -%}
+{%- capture pub_card_links -%}
+  {%- comment -%} Parameters keep the order they were written in. {%- endcomment -%}
+  {%- for pub_param in include -%}
+    {%- assign pub_link_key = pub_param[0] -%}
+    {%- assign pub_link_href = pub_param[1] -%}
+    {%- if pub_link_keys contains pub_link_key and pub_link_href -%}
+      {%- assign pub_link_label = pub_link_key | capitalize -%}
+      {{- pub_link_sep -}}
+      {%- if pub_link_href == "soon" -%}
+        <strong>{{ pub_link_label }} (coming soon)</strong>
+      {%- else -%}
+        <a href="{{ pub_link_href | escape }}"><strong>{{ pub_link_label }}</strong></a>
+      {%- endif -%}
+      {%- assign pub_link_sep = " / " -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- if pub_card_links != "" %}
+<p>{{ pub_card_links }}</p>
+{%- endif %}
+</div>
+</div>

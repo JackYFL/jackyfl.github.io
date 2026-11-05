@@ -1,0 +1,19 @@
+# Topic tabs for the Publications filter (rendered by _includes/pub-filter.html).
+#   key:   the tag a paper lists in tags="..."; "all" must stay first.
+#   label: button text.
+#   title: optional full name, shown on hover and read by screen readers.
+- key: all
+  label: All
+- key: efficiency
+  label: Efficiency
+- key: vfm
+  label: VFM
+  title: Vision Foundation Model
+- key: vllm
+  label: VLLM
+- key: embodied
+  label: Embodied AI
+- key: cv
+  label: CV
+- key: nlp
+  label: NLP
