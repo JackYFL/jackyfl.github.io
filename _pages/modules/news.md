@@ -3,6 +3,8 @@
 <summary>2026 📣 📣 📣</summary>
 <div markdown="1">
 
+- *2026.11*: &nbsp;🎉🎉🎉 My leading project on linear attention has been supported by NAIRR!
+
 - *2026.10*: &nbsp;🎉🎉🎉 Successfully passed the comprehensive exam!
 
 - *2026.10*: &nbsp;🎉🎉🎉 Our paper "SP-VTP: Spatially Prompted Visual Trajectory Prediction for Egocentric Manipulation" has been accepted by **WACV 2027**! Thanks our collaborators! The codes will release soon : )
